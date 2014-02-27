@@ -1,4 +1,4 @@
-###Dockerfile including *openjdk-7-jre* package.
+###Dockerfile including *openjdk-7-jdk* package.
 
 Trusted build: [abiskop/openjdk](https://index.docker.io/u/abiskop/openjdk/).
 
