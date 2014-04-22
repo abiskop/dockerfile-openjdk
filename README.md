@@ -3,4 +3,4 @@
 Trusted build: [abiskop/openjdk](https://index.docker.io/u/abiskop/openjdk/).
 
 **Dependencies**:
-- [mirkokiefer/ubuntu-base](https://github.com/mirkokiefer/dockerfile-base)
+- [abiskop/base](https://github.com/abiskop/dockerfile-base)
